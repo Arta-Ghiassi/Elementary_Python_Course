@@ -1,0 +1,28 @@
+git init                                             create a new repository
+
+git status                                           get the status of current repository
+
+git add {file name}                                  add a file to stage state
+
+git add -A                                           add all file (untraked or changed) to stage state
+
+git reset {file name}                                to exit a file from stage
+
+git commit -m "{information about commit}"           commit the staged files and save the changes
+
+
+git clone {URL address}                                   clone a project from github
+
+git pull {remote name}                                pull the changes from remote
+
+git stash -u                                            clear the local changes such that ready to pull
+
+git remote add origin {URL address}                      to add a remote server for project
+
+git push -u {reponame (origin)} {branch name (main)}     to push the changes from local to remote repo
+
+
+
+
+
+
