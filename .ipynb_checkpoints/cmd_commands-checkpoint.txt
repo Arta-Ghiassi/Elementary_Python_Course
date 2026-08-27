@@ -1,0 +1,27 @@
+CMD Commands
+
+
+
+cd {directory name} ======> change the directory
+
+cd .. ==============> step backward from the current location
+
+dir ========> list of directories
+
+mkdir *name folder* ======> make new folder
+
+help =======> get information about commands
+
+cls ========> clear the cmd
+
+color {a number} ========> change the text color in cmd
+
+color {a color} =========> to find colors
+
+rd {name folder} ==========> remove folder 
+
+tasklist ===========> show all running tasks
+
+find ==========> search a text in file or files
+
+exit() =============> to exit a program
